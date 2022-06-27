@@ -42,5 +42,5 @@ console.log(addDiagonal(phonesArr[2], '6.06'));
 console.log(addDiagonal(phonesArr[3], '6.68'));
 
 
-const newPhonesArr = phonesArr.map((phone) => addDiagonal(phone, '5.6'));
+const newPhonesArr = phonesArr.map((phone) => addDiagonal(phone, '5.85'));
 console.log(newPhonesArr);
